@@ -1,4 +1,4 @@
-# Setting up a development environment
+# Setting up a development environment (tgis is a nistake)
 
 [Slides](../slides/DeepLearningSoftware.pdf){ .md-button }
 
